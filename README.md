@@ -8,4 +8,4 @@ Installation et Configuration
 
     🧪 Exécution des Tests
 
-Pour vérifier le bon fonctionnement du système, lancez la LibrarySystem.java. Vous pouvez utiliser les données de test intégrées
+    Pour vérifier le bon fonctionnement du système, lancez la LibrarySystem.java. Vous pouvez utiliser les données de test intégrées
