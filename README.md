@@ -6,6 +6,6 @@ Installation et Configuration
 
     Java JDK 21 ou supérieur.
 
-    🧪 Exécution des Tests
+     Exécution des Tests
 
     Pour vérifier le bon fonctionnement du système, lancez la LibrarySystem.java. Vous pouvez utiliser les données de test intégrées
