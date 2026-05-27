@@ -1,4 +1,4 @@
-# COMC06_DataProgramStructure
+# LibraryWithDatastructure
 Projet de consolidation des notions de Datastructure de java pour la formation k48.
 Installation et Configuration
 
